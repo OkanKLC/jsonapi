@@ -1,16 +1,9 @@
-{
-  "total":2,
-  "result":
-  [
-  {
-    "id": 1,
-    "title": "okan kılıç",
+ {
+    "title": "Okan Kılıç",
     "body": "Usta Tasarımcı"
   },
   {
-    "id": 2,
-    "title": "Okan Kılıç",
-    "body": "Çırak Tasarımcı"
-  }
     
-    ]}
+    "title1": "Okan Kılıç",
+    "body1": "Çırak Tasarımcı"
+  }
